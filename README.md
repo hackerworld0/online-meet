@@ -1,2 +1,1 @@
-# online-meet
-js
+# google-meet-clone
